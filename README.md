@@ -34,5 +34,5 @@ Contributions to this repository are encouraged. If you have valuable insights, 
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the content for non-commercial purposes while giving appropriate credit to the original authors.
+This repository is licensed under the [GNU General Public License v3.0](LICENSE). You are free to use, modify, and distribute the content for non-commercial purposes while giving appropriate credit to the original authors.
 
